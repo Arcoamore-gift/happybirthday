@@ -919,6 +919,7 @@
   position:absolute;
   bottom:-4px;
   left:50%;
+  top:300px;  
   transform:translateX(-50%);
   font-size:11px;
   letter-spacing:2px;
